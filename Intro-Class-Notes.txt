@@ -1,0 +1,10 @@
+What is the roles in DevOps?
+
+DevOps:
+
+Culture and Collaboration: DevOps is a cultural and organizational approach that aims to bridge the gap between development and operations teams. It promotes collaboration, shared responsibilities, and continuous communication.
+Continuous Integration and Deployment: DevOps focuses on automating the software delivery process through continuous integration and deployment (CI/CD) pipelines. This enables frequent and reliable software releases.
+Infrastructure as Code: DevOps emphasizes the use of infrastructure-as-code (IaC) tools to provision and manage infrastructure. This allows for consistent and repeatable environments and simplifies configuration management.
+Monitoring and Feedback Loop: DevOps incorporates monitoring tools and practices to collect real-time data on system performance and user behavior. This feedback loop helps identify issues and drive continuous improvement.
+Shift-Left Testing: DevOps promotes early and continuous testing throughout the software development lifecycle. Testing is integrated into the CI/CD pipeline, allowing for faster feedback and bug detection.
+DevOps Tools: DevOps utilizes a wide range of tools for automation, configuration management, orchestration, and monitoring. Examples include Jenkins, GitLab, Docker, Kubernetes, and various cloud services.
